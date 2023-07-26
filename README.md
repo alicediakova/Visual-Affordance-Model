@@ -1,5 +1,5 @@
 # Visual-Affordance-Model
-Project for Computational Aspects of Robotics Course from Columbia University's School of Engineering and Applied Science, May 2023
+Project for Computational Aspects of Robotics Course (COMSW4733) from Columbia University's School of Engineering and Applied Science, May 2023
 
 When one designs learning algorithms for robots, how to represent a robot’s observation input and action outputs often plays a decisive role in the algorithm’s learning efficiency and generalization ability. In this project, I explored a specific type of action representation, Visual Affordance (also called Spatial Action Map): a state-of-the-art algorithm for visual robotic pack-and-place tasks. This method played a critical role for the MIT-Princeton team’s victory in the 2017 Amazon Robotics Challenge. This project uses PyBullet simulation engine extensively and the Visual Affordance model uses MiniUNet architecture.
 
